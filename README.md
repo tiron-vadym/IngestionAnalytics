@@ -53,7 +53,7 @@ app/
 ### Setup
 
 ```bash
-git clone https://github.com/tiron-vadym/ingestor-analitics
+git clone https://github.com/tiron-vadym/IngestionAnalytics
 cd event-analytics
 cp .env.example .env
 docker-compose up --build
